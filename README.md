@@ -2,6 +2,10 @@
 An awesome list of the best AI detectors for images, videos &amp; audio. Yes, even for deepfakes.
 # List of AI Detectors for Images, Videos & Audio
 
+
+### before a List for other source of dectors and humanizer at Github
+[Top 25 AI Humanizer Tools Ranked in 2025 (Latest Compilation)](https://github.com/nifzaa0/ai-humanizer-tools)   
+
 [Ai detector](https://www.google.com/search?q=ai+detector&oq=Ai+detector&gs_lcrp=EgZjaHJvbWUqBwgAEAAYjwIyBwgAEAAYjwIyDAgBEEUYORixAxiABDIGCAIQRRhBMgoIAxAAGLEDGIAEMgcIBBAAGIAEMgcIBRAAGIAEMgcIBhAAGIAEMgcIBxAAGIAEMgcICBAAGIAEMgcICRAAGIAEMgcIChAAGIAEMgcICxAAGIAEMgcIDBAAGIAEMgcIDRAAGIAEMgcIDhAAGIAE0gEJMTEyODlqMGo0qAIOsAIB8QVcfdn-Sq_hXg&client=ms-android-huawei-rev1&sourceid=chrome-mobile&ie=UTF-8)
 
 [Ai detector Github](https://www.google.com/search?q=ai+detector+github&oq=&gs_lcrp=EgZjaHJvbWUqDAgEECMYJxjqAhiMBDIGCAAQRRg5MgcIARBFGLABMgwIAhAjGCcY6gIYjAQyDAgDECMYJxjqAhiMBDIMCAQQIxgnGOoCGIwEMgwIBRAjGCcY6gIYjAQyDwgGECMYJxjqAhiMBBjwBTIMCAcQIxgnGOoCGIwEMgwICBAjGCcY6gIYjAQyDAgJECMYJxjqAhiMBDIMCAoQIxgnGOoCGIwEMgwICxAjGCcY6gIYjAQyDAgMECMYJxjqAhiMBDIMCA0QIxgnGOoCGIwEMgwIDhAjGCcY6gIYjATSAQYtMWowajmoAg6wAgHxBcZFehXdnrYD&client=ms-android-huawei-rev1&sourceid=chrome-mobile&ie=UTF-8) 
