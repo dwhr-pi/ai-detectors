@@ -2,6 +2,13 @@
 An awesome list of the best AI detectors for images, videos &amp; audio. Yes, even for deepfakes.
 # List of AI Detectors for Images, Videos & Audio
 
+[Ai detector](https://www.google.com/search?q=ai+detector&oq=Ai+detector&gs_lcrp=EgZjaHJvbWUqBwgAEAAYjwIyBwgAEAAYjwIyDAgBEEUYORixAxiABDIGCAIQRRhBMgoIAxAAGLEDGIAEMgcIBBAAGIAEMgcIBRAAGIAEMgcIBhAAGIAEMgcIBxAAGIAEMgcICBAAGIAEMgcICRAAGIAEMgcIChAAGIAEMgcICxAAGIAEMgcIDBAAGIAEMgcIDRAAGIAEMgcIDhAAGIAE0gEJMTEyODlqMGo0qAIOsAIB8QVcfdn-Sq_hXg&client=ms-android-huawei-rev1&sourceid=chrome-mobile&ie=UTF-8)
+[Ai detector Github](https://www.google.com/search?q=ai+detector+github&oq=&gs_lcrp=EgZjaHJvbWUqDAgEECMYJxjqAhiMBDIGCAAQRRg5MgcIARBFGLABMgwIAhAjGCcY6gIYjAQyDAgDECMYJxjqAhiMBDIMCAQQIxgnGOoCGIwEMgwIBRAjGCcY6gIYjAQyDwgGECMYJxjqAhiMBBjwBTIMCAcQIxgnGOoCGIwEMgwICBAjGCcY6gIYjAQyDAgJECMYJxjqAhiMBDIMCAoQIxgnGOoCGIwEMgwICxAjGCcY6gIYjAQyDAgMECMYJxjqAhiMBDIMCA0QIxgnGOoCGIwEMgwIDhAjGCcY6gIYjATSAQYtMWowajmoAg6wAgHxBcZFehXdnrYD&client=ms-android-huawei-rev1&sourceid=chrome-mobile&ie=UTF-8) 
+[ai detector Images Github](https://www.google.com/search?q=ai+detector+image+Github&oq=ai+detector+image+Github&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIKCAEQABgIGAoYHjIKCAIQABgIGAoYHjIICAMQABgIGB4yBwgEEAAY7wUyCggFEAAYgAQYogQyBwgGEAAY7wUyCggHEAAYgAQYogTSAQg2MzE0ajBqN6gCALACAA&client=ms-android-huawei-rev1&sourceid=chrome-mobile&ie=UTF-8) 
+[ai detector video Github](https://www.google.com/search?q=ai+detector+video+Github&oq=ai+detector+video+Github&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIICAEQABgIGB4yCAgCEAAYCBgeMgoIAxAAGIAEGKIEMgoIBBAAGIAEGKIEMgcIBRAAGO8FMgcIBhAAGO8FMgoIBxAAGIAEGKIE0gEINTEyNmowajeoAgCwAgA&client=ms-android-huawei-rev1&sourceid=chrome-mobile&ie=UTF-8) 
+[ai detector Musik Github](https://www.google.com/search?q=ai+detector+Musik+Github&oq=ai+detector+Musik+Github&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIKCAEQIRigARjDBDIKCAIQIRigARjDBDIKCAMQIRigARjDBNIBCDc5MjRqMGo3qAIAsAIA&client=ms-android-huawei-rev1&sourceid=chrome-mobile&ie=UTF-8) 
+[Text]() 
+
 Welcome to the 'List of AI Detectors for Images, Videos & Audio.'
 
 This list is a collection of advanced tools that help you detect AI-generated media (including deepfakes) on the internet. It's perfect for website developers, AI researchers, and curious individuals, as well as anyone who wants to tell the difference between human-created and AI-generated media.
